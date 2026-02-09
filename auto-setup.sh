@@ -38,6 +38,7 @@ sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub
 ## mission center 설치
 
 ## gnome tweak 설치
+### Ralt -> hangul 변경
 
 ## haruna 설치
 
